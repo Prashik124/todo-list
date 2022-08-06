@@ -82,3 +82,4 @@ puts "\n\n"
 puts "Due Later\n"
 puts todos_list.due_later.to_displayable_list
 puts "\n\n"
+puts "\n\n"
